@@ -1,0 +1,17 @@
+{
+  "name": "mocha_chai_sinon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "sinon": "^9.0.1"
+  }
+}
